@@ -1,3 +1,3 @@
 function(){
-  alert(5+5);
+  window.document.write(5+5);
 }
